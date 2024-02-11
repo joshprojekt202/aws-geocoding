@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "location": {
+      "lat": 40.01574,
+      "lon": -105.27924
+    }
+  },
+  {
+    "city": "Asheville",
+    "state": "NC",
+    "location": {
+      "lat": 35.59866,
+      "lon": -82.55338
+    }
+  },
+  {
+    "city": "Santa Fe",
+    "state": "NM",
+    "location": {
+      "lat": 35.69177,
+      "lon": -105.93824
+    }
+  },
+  {
+    "city": "Charlottesville",
+    "state": "VA",
+    "location": {
+      "lat": 38.03213,
+      "lon": -78.47756
+    }
+  },
+  {
+    "city": "Bend",
+    "state": "OR",
+    "location": {
+      "lat": 44.05782,
+      "lon": -121.31537
+    }
+  }
+]

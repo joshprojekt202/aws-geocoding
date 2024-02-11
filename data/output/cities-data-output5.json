@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Lincoln",
+    "state": "NE",
+    "location": {
+      "lat": 40.81362,
+      "lon": -96.7073
+    }
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "location": {
+      "lat": 33.58451,
+      "lon": -101.84462
+    }
+  },
+  {
+    "city": "Syracuse",
+    "state": "NY",
+    "location": {
+      "lat": 43.05042,
+      "lon": -76.14738
+    }
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "location": {
+      "lat": 38.04861,
+      "lon": -84.5003
+    }
+  },
+  {
+    "city": "Columbia",
+    "state": "MO",
+    "location": {
+      "lat": -34.92302,
+      "lon": -56.15881
+    }
+  }
+]

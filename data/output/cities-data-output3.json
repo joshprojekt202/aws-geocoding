@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Fargo",
+    "state": "ND",
+    "location": {
+      "lat": 46.87591,
+      "lon": -96.78176
+    }
+  },
+  {
+    "city": "Ithaca",
+    "state": "NY",
+    "location": {
+      "lat": 42.44051,
+      "lon": -76.49546
+    }
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "location": {
+      "lat": 43.07313,
+      "lon": -89.38644
+    }
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "location": {
+      "lat": 42.2821,
+      "lon": -83.74847
+    }
+  },
+  {
+    "city": "Fort Collins",
+    "state": "CO",
+    "location": {
+      "lat": 40.58147,
+      "lon": -105.07662
+    }
+  }
+]

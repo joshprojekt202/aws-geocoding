@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Eugene",
+    "state": "OR",
+    "location": {
+      "lat": 44.04992,
+      "lon": -123.08837
+    }
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "CA",
+    "location": {
+      "lat": 36.97424,
+      "lon": -122.03098
+    }
+  },
+  {
+    "city": "Chattanooga",
+    "state": "TN",
+    "location": {
+      "lat": 35.04672,
+      "lon": -85.30947
+    }
+  },
+  {
+    "city": "Aspen",
+    "state": "CO",
+    "location": {
+      "lat": 39.19002,
+      "lon": -106.81818
+    }
+  },
+  {
+    "city": "Tallahassee",
+    "state": "FL",
+    "location": {
+      "lat": 30.43977,
+      "lon": -84.28065
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Bozeman",
+    "state": "MT",
+    "location": {
+      "lat": 45.67933,
+      "lon": -111.03234
+    }
+  },
+  {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "location": {
+      "lat": 35.1982,
+      "lon": -111.6513
+    }
+  },
+  {
+    "city": "Savannah",
+    "state": "GA",
+    "location": {
+      "lat": 32.08091,
+      "lon": -81.09119
+    }
+  },
+  {
+    "city": "Missoula",
+    "state": "MT",
+    "location": {
+      "lat": 46.87278,
+      "lon": -113.99625
+    }
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "location": {
+      "lat": 39.52766,
+      "lon": -119.81353
+    }
+  }
+]
